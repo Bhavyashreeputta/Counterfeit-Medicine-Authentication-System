@@ -99,7 +99,7 @@ Transaction Contract: The Transaction Contract is deployed automatically by the 
   
  ## :octocat: Project GitHub Links:
 - <a href="https://github.com/Bhavyashreeputta/Counterfeit-Medicine-Authentication-System">Smart Contracts for Blockchain + Frontend </a>
-- <a href="https://github.com/appuabhishek/tempreature-api.git">IoT part</a>
+- <a href="https://github.com/Bhavyashreeputta/Temperature-Api.git">IoT part</a>
 
 ## 📈 RESULTS
 <img src="images/ganache.png"/>
